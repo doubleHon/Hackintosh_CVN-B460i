@@ -18,7 +18,7 @@
 | 网卡  | Intel AX200    |
 
 * 食用前修改config.plist中的三码，安装完成后可再次进行微调三码  
-![img.png](Imags/img.png)
+![img.png](Imgs/img.png)
 
 ## BIOS设置
 1. Fast Boot: 快速启动
@@ -62,16 +62,16 @@
 
 ## 附图
 * 关于本机  
-![img_1.png](Imags/img_1.png)  
+![img_1.png](Imgs/img_1.png)  
 
 * CPU睿频  
-![img_2.png](Imags/img_2.png)
+![img_2.png](Imgs/img_2.png)
 
 * Sensei信息截图  
-![img_3.png](Imags/img_3.png)
+![img_3.png](Imgs/img_3.png)
 
 * VideoProc核显硬件加速正常  
-![img_4.png](Imags/img_4.png)
+![img_4.png](Imgs/img_4.png)
 
 
 ## 感谢
